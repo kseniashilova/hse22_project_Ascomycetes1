@@ -4,7 +4,7 @@
 * Зелина Полина - protein1.faa  
 * Коновалов Егор - protein_op.faa  
 * Крымов Александр - Bipolaris_oryzae_ATCC_44560.faa  
-* Михайлова Ксения - 
+* Михайлова Ксения - Trichophyton_interdigitale.faa
 * Петропавловский Андрей - GCA_001749795.1.protein.faa  
 * Сесикова Ксения - GCA_000303195.2_FP7_protein.faa  
 * Чекова Милена - GCF_000002655.1_ASM265v1_protein.faa  

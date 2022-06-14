@@ -1,5 +1,5 @@
 # hse22_project_Ascomycetes1 
-Код назодится в [Google colab](https://colab.research.google.com/drive/1myWxls72ZCpo1IuQsPOtPUtDFzogMF-M?usp=sharing)  
+Код находится в [Google colab](https://colab.research.google.com/drive/1myWxls72ZCpo1IuQsPOtPUtDFzogMF-M?usp=sharing)  
 ## 1. Создание ортологичных кластеров внутри таксона
 Для кластеризации были использованы следующие файлы (10 файлов):  
 * Абу Аль Лабан Надя - Kazachstania_barnettii_protein.faa  

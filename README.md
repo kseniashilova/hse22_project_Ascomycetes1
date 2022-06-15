@@ -16,7 +16,7 @@
 После того, как ```proteinortho5``` отработала (результат в [файле](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/myproject.proteinortho)) необходимо совместить кластеры по 50-ти геномам в один файл ([файл с кластерами для 50-ти геномов]()).  
 Файлы участников команды, полученные после команды ```intersectBed``` предварительно были обработаны (код для обработки в ![другом гугл колабе](https://colab.research.google.com/drive/1TMzOUMdtznN3huHGIf2hfPHIz9FUUzGr?usp=sharing)).  
 Затем были найдены кластеры, где участвуют по крайней мере 25 (половина) видов. Полностью таблицу можно увидеть в [файле]().   
-# 2. Статистика по кластерам  
+# 2. Статистика по кластерам, где участвуют по крайней мере 25 (половина) видов  
 ### a) Названия кластеров  
 ### b) Количество генов   
 Гистограмма распределения количества генов в кластерах:  
@@ -25,5 +25,11 @@
 Гистограмма распределения количества видов в кластерах:  
 ![](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/pic/species.png)
 ### d) Количество генов, у которых есть z-dna в промотере  
-### e) Максимальный ZH-Score
-### f) Средний ZH-Score
+Гистограмма распределения количества генов с предсказанной Z-DNA в районе промотера:  
+![](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/pic/zdna_in_promoters.png)
+### e) Максимальный ZH-Score  
+Гистограмма распределения максимальных ZHUNT Scores по всем кластерам:  
+![](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/pic/max_zh.png)  
+### f) Средний ZH-Score  
+Гистограмма распределения средних ZHUNT Scores по всем кластерам:  
+![](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/pic/mean_zh.png)  

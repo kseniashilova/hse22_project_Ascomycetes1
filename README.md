@@ -60,5 +60,17 @@
 Тепловая карта, где по строкам располагаются геномы, а по столбцам выбранные кластеры.  
 Белый цвет ячейки означает, что в данном гене нет предсказанной Z-DNA в промотере.  
 Серый цвет ячейки означает, что этот геном не представлен в кластере.   
-![](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/pic/heat_map.jpg)  
-
+![](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/pic/heat_map.jpg)    
+# 5. Названия (наиболее частые функции) для выбранных 10-ти кластеров
+|cluster| function |
+|--|--|
+|0|    Exosome complex component, Exosome exonuclease subunit|
+|1|   Nucleolar protein, rRNA processing protein, alcohol dehydrogenase, ion of 18S rRNA and assembly of small ribosoma|
+|2|    transcription elongation factor, RNA polymerase II elongation factor|
+|3|                         (pre-) mRNA splicing protein|
+|4|               small nucleolar RNA-associated protein|
+|5|              Lysophosphatidylcholine acyltransferase|
+|6|                    mRNA-capping enzyme subunit alpha|
+|7|                                  histone deacetylase|
+|8|           Ribosome-releasing factor 2, mitochondrial|
+|9|                  putative copper-transporting ATPase|

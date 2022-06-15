@@ -2,16 +2,16 @@
 # 0. Команда и ссылка на полные данные  
 |Участник|Род| Индивидуальная часть|
 |----|----|----|
-|Абу Аль Лабан	Надя |Ascomycetes	Kazachstania	| https://github.com/nadialaban/hse22_project |
-|Зелина	Полина	| Ascomycetes	Lachancea |	https://github.com/LittlePolly/hse22_project_Lachancea |
-| Коновалов	Егор	|	Ascomycetes	Ogataea, Alternaria |	https://github.com/konovalowo/hse22_project|
-|Крымов	Александр	|Ascomycetes	Bipolaris |	https://github.com/apkrymov/hse22_project|
-|Михайлова	Ксения	|Ascomycetes	Trichophyton |	https://github.com/t0pcup/hse22_project|
-|Петропавловский	Андрей	|	Ascomycetes	Hanseniaspora, Pneumocystis|	https://github.com/alf3ratz/hse22_project|
-|Сесикова	Ксения|	Ascomycetes	Fusarium |	https://github.com/ksenii/BIO_FINAL_PROJECT|
-|Чекова	Милена	|	Ascomycetes	Aspergillus |	https://github.com/MilenaChekov/project_Aspergillus|
-|Шагалкина	Дарья|	Ascomycetes	Candida, Eremothecium |	https://github.com/adriadar/hse22_project|
-|Шилова	Ксения	|	Ascomycetes	Saccharomyces, Naumovozyma |	https://github.com/kseniashilova/hse22_project |    
+|Абу Аль Лабан	Надя | Kazachstania	| https://github.com/nadialaban/hse22_project |
+|Зелина	Полина	| Lachancea |	https://github.com/LittlePolly/hse22_project_Lachancea |
+| Коновалов	Егор	|	Ogataea, Alternaria |	https://github.com/konovalowo/hse22_project|
+|Крымов	Александр	| Bipolaris |	https://github.com/apkrymov/hse22_project|
+|Михайлова	Ксения	| Trichophyton |	https://github.com/t0pcup/hse22_project|
+|Петропавловский	Андрей	|	Hanseniaspora, Pneumocystis|	https://github.com/alf3ratz/hse22_project|
+|Сесикова	Ксения|	Fusarium |	https://github.com/ksenii/BIO_FINAL_PROJECT|
+|Чекова	Милена	|	Aspergillus |	https://github.com/MilenaChekov/project_Aspergillus|
+|Шагалкина	Дарья| Candida, Eremothecium |	https://github.com/adriadar/hse22_project|
+|Шилова	Ксения	| Saccharomyces, Naumovozyma |	https://github.com/kseniashilova/hse22_project |    
   
 Код находится в [Google colab](https://colab.research.google.com/drive/1myWxls72ZCpo1IuQsPOtPUtDFzogMF-M?usp=sharing)  
 Все файлы, использовавшиесяв процессе работы, находятся на [гугл диске](https://drive.google.com/drive/folders/1r5IfjANJg3Nt-GnA2TBUgyQXWJoYUtfy?usp=sharing)    

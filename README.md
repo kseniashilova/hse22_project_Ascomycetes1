@@ -52,7 +52,7 @@
 
 # 3. Выбор кластеров с наибольшим количеством генов с консервативной Z-DNA в промотере  
   Все кластеры были отсортированы по количеству генов в них с Z-DNA в районе промотера. В случае одинакового количества таких генов (второй уровень сортировки) - по среднему ZHunt Score среди генов кластера.  
-Таблица с информацией о кластерах выглядит следующим образом:  
+[Таблица](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/tables_of_50_genomes/clusters.txt) с информацией о кластерах выглядит следующим образом:  
 Количество видов которые участвуют в создании кластера, Количество генов, Сколько из видов имеют предсказанную ZDNA в промотере, Cредний Zhunt Score, Максимальный Zhunt Score в кластере.  
 Затем в таблице находятся 50 столбцов, где написан белок из файлов myproject.proteinortho, Затем 0 или 1 (0 - нет Z-DNA в промотере, 1 - есть) и если было 1, то описание этой Z-DNA. 
   ![](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/pic/table%20example.PNG)    
@@ -73,4 +73,39 @@
 |6|                    mRNA-capping enzyme subunit alpha|
 |7|                                  histone deacetylase|
 |8|           Ribosome-releasing factor 2, mitochondrial|
-|9|                  putative copper-transporting ATPase|
+|9|                  putative copper-transporting ATPase|    
+# 6. Выбор нескольких кластеров и дополнительная информация по ним
+### a) Визуализация с помощью Dna Features Viewer  
+![](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/pic/clust2_vis.png)  
+![](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/pic/clust5_vis.png)  
+![](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/pic/clust7_vis.png)
+### b) Нуклеотидное выравнивание с Z-DNA  
+Файлы: [clust2](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/clusters/clust2_nucleotide_align_ZDNA.fas),  
+[clust5](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/clusters/clust5_nucleotide_align_ZDNA.fas),  
+[clust7](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/clusters/clust7_nucleotide_align_ZDNA.fas)  
+### c) Аминокислотное выравнивание  
+Файлы: [clust2](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/clusters/clust2_aminoacid_align.fas),  
+[clust5](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/clusters/clust5_aminoacid_align.fas),  
+[clust7](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/clusters/clust7_aminoacid_align.fas)    
+# Выводы  
+# Бонус. Анализ квадруплексов  
+* Количество генов   
+Гистограмма распределения количества генов в кластерах:  
+![](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/quadruplex/pic/genes.png)
+* Количество видов  
+Гистограмма распределения количества видов в кластерах:  
+![](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/quadruplex/pic/species.png)
+* Количество генов, у которых есть квадруплекс в промотере  
+Гистограмма распределения количества генов с предсказанным квадруплексом в районе промотера:  
+![](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/quadruplex/pic/quads_in_promoter.png)
+* Максимальный Quadruplex Score  
+Гистограмма распределения максимальных Scores по всем кластерам:  
+![](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/quadruplex/pic/max.png)  
+* Средний Quadruplex Score  
+![](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/quadruplex/pic/mean.png)    
+
+# Тепловая карта. Квадруплексы
+Тепловая карта, где по строкам располагаются геномы, а по столбцам выбранные кластеры.  
+Белый цвет ячейки означает, что в данном гене нет предсказанного квадруплекса.  
+Серый цвет ячейки означает, что этот геном не представлен в кластере.   
+![](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/quadruplex/pic/heatmap.png)   

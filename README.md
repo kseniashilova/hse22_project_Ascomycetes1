@@ -55,4 +55,10 @@
 Таблица с информацией о кластерах выглядит следующим образом:  
 Количество видов которые участвуют в создании кластера, Количество генов, Сколько из видов имеют предсказанную ZDNA в промотере, Cредний Zhunt Score, Максимальный Zhunt Score в кластере.  
 Затем в таблице находятся 50 столбцов, где написан белок из файлов myproject.proteinortho, Затем 0 или 1 (0 - нет Z-DNA в промотере, 1 - есть) и если было 1, то описание этой Z-DNA. 
-  ![](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/pic/table%20example.PNG)
+  ![](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/pic/table%20example.PNG)    
+# 4. Тепловая карта  
+Тепловая карта, где по строкам располагаются геномы, а по столбцам выбранные кластеры.  
+Белый цвет ячейки означает, что в данном гене нет предсказанной Z-DNA в промотере.  
+Серый цвет ячейки означает, что этот геном не представлен в кластере.   
+![](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/pic/heat_map.jpg)  
+

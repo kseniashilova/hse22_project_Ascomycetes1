@@ -30,7 +30,8 @@
 
 После того, как ```proteinortho5``` отработала (результат в [файле](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/myproject.proteinortho)) необходимо совместить кластеры по 50-ти геномам в один файл.  
 Файлы участников команды, полученные после команды ```intersectBed``` предварительно были обработаны (код для обработки в [другом гугл колабе](https://colab.research.google.com/drive/1TMzOUMdtznN3huHGIf2hfPHIz9FUUzGr?usp=sharing)).  
-Затем были найдены кластеры, где участвуют по крайней мере 25 (половина) видов. Полностью таблицу можно увидеть в [файле](https://drive.google.com/file/d/171tNxe6vZkWm6lJkNMI3cg0HvrGfJhFb/view?usp=sharing).   
+Затем были найдены кластеры, где участвуют по крайней мере 25 (половина) видов.  
+* **Полностью таблицу можно увидеть в [.txt файле](https://drive.google.com/file/d/171tNxe6vZkWm6lJkNMI3cg0HvrGfJhFb/view?usp=sharing) и в [.csv файле](https://drive.google.com/file/d/1--TKCONqmjJA0y3wkSs7H5779GAFDrik/view?usp=sharing)**.   
 # 2. Статистика по кластерам, где участвуют по крайней мере 25 (половина) видов  
 ### a) Названия кластеров  
 ### b) Количество генов   

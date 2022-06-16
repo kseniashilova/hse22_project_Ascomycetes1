@@ -81,11 +81,11 @@
 |43. | Candida albicans | 14282666||0.63 | 1100
 |44. | Eremothecium cymbalariae| 9669424||0.73| 1127||
 |45. | Candida orthopsilosis|12659401||0.67| 1134|
-|46. ||||||
-|47. ||||||
-|48. ||||||
-|49. ||||||
-|50. ||||||
+|46. |Saccharomyces arboricola H-6|11558863|38,851|0.47|7437|
+|47. |Saccharomyces eubayanus|11703647|39,9557|0.69|10197|
+|48. |Saccharomyces paradoxus|12092683|38,562|0.69|6920|
+|49. |Naumovozyma castellii CBS 4309|11219539|36,7559|0.74|3231|
+|50. |Naumovozyma dairenensis CBS 421|13527580|34,1768|0.64|4617|
 
 
 

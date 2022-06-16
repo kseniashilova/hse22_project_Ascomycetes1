@@ -222,26 +222,27 @@
 3. Исходя из нескольких факторов (функций, скора proteinortho, zh-score), выбрали 3 кластера и провели их более подробный анализ
 4. Подводя итоги, нам удалось найти консервативную z-dna в генах, кодирующих значимые белки для данных родственных видов
 
-## Бону. Анализ квадруплексов
+## Бонус. Анализ квадруплексов
 
-* Количество генов
-Гистограмма распределения количества генов в кластерах:  
+* Количество генов. Гистограмма распределения количества генов в кластерах:  
 ![genes](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/quadruplex/pic/genes.png)
-* Количество видов  
-Гистограмма распределения количества видов в кластерах:  
+
+* Количество видов. Гистограмма распределения количества видов в кластерах:  
 ![scecies](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/quadruplex/pic/scecies.png)
-* Количество генов, у которых есть квадруплекс в промотере  
-Гистограмма распределения количества генов с предсказанным квадруплексом в районе промотера:  
+
+* Количество генов, у которых есть квадруплекс в промотере. Гистограмма распределения количества генов с предсказанным квадруплексом в районе промотера:  
 ![quads_in_promoter](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/quadruplex/pic/quads_in_promoter.png)
-* Максимальный Quadruplex Score  
-Гистограмма распределения максимальных Scores по всем кластерам:  
-![max](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/quadruplex/pic/max.png)  
+
+* Максимальный Quadruplex Score. Гистограмма распределения максимальных Scores по всем кластерам:  
+![max](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/quadruplex/pic/max.png)
+
 * Средний Quadruplex Score  
 ![mean](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/quadruplex/pic/mean.png)
 
 ### Выбор кластеров
 
-Кластеры выбраны с наибольшем количеством генов, у которых есть квадруплекс в промотере. Второй уровень сортировки по mean score.  
+Кластеры выбраны с наибольшем количеством генов, у которых есть квадруплекс в промотере. Второй уровень сортировки по mean score.
+
 Кластеры можно посмотреть [здесь в файле](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/quadruplex/clusters.txt).
 
 ### Тепловая карта

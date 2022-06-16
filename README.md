@@ -66,9 +66,9 @@
 |28. |Hanseniaspora valbyensis NRRL Y-1626|11464036|22,6|0.617387|994||
 |29. |Pneumocystis canis|7939452|26,3|0.594793|1396||
 |30. |Pneumocystis oryctolagi|7639465|27,8|0.582478|5548||
-|31. | Fusarium musae | |||||
-|32. | Fusarium poae ||||||
-| 33.| ||||||
+|31. | Fusarium musae |44016361||43.44|||
+|32. | Fusarium poae |44001690||44.76|||
+| 33.|Fusarium p||||||
 |34. ||||||
 |35. |Aspergillus fumigatus|29384958|49,8105|0.48|59749||
 |36. |Aspergillus flavus|36995582|48,0323|0.5|61829||

@@ -121,6 +121,15 @@
 [clust5](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/clusters/clust5_aminoacid_align.fas),  
 [clust7](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/clusters/clust7_aminoacid_align.fas)    
 # Выводы  
+
+1) Было найдены свыше 10 тысяч кластеров, объединивших хотя бы половину (25) геномов с наличием z-днк
+
+2) Из них были отобраны 10 с учетом наибольшего покрытия видов и zh-score
+
+3) Исходя из нескольких факторов (функций, скора proteinortho, zh-score), выбрали 3 кластера и провели их более подробный анализ
+
+4) Подводя итоги, нам удалось найти консервативную z-dna в генах, кодирующих значимые белки для данных родственных видов
+
 # Бонус. Анализ квадруплексов  
 * Количество генов   
 Гистограмма распределения количества генов в кластерах:  

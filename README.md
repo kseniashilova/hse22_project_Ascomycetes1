@@ -51,12 +51,12 @@
 |13. |Ogataea angusta|30596185|49,4|0.41|||
 |14. |Ogataea haglerorum|30377204|49,3|0.39|||
 |15. |Ogataea polymorpha|37588682|47,9|0.51|||
-|16. |Lachancea quebecensis|10229370|46,7|0.74|36547||
-|17. |Alternaria atra|78177382|39,6|0.31|||
-|18. |Alternaria rosae|84993594|33,8|0.38|||
-|19. |Ogataea angusta|30596185|49,4|0.41|||
-|20. |Ogataea haglerorum|30377204|49,3|0.39|||
-|21. |Ogataea polymorpha|37588682|47,9|0.51|||
+|16. |Bipolaris maydis ATCC 48331|32 929 167|50,7|0.60|36547||
+|17. |Bipolaris oryzae ATCC 44560|31 362 097|50,5|0.56|||
+|18. |Bipolaris sorokiniana ND90Pr|34 409 167|49,8|0.60|||
+|19. |Bipolaris victoriae FI3|32 829 575|50,1|0.56|||
+|20. |Bipolaris zeicola 26-R-13|31 267 936|	50,8|0.58|||
+
 
 
 ### a) Названия кластеров  

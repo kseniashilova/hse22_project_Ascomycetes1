@@ -45,56 +45,56 @@
 
 | Номер | Название                             | Длина генома | GC%  | % аннотированных генов | Кол-во Z-DNA
 |-------|--------------------------------------|-------------:|------|------------------------|-------------:
-|1.     | Kazachstania africana CBS 2517       | 11130140     | 36,3 | 0.71                   | 3622
-|2.     | Kazachstania naganishii CBS 8797     | 10845821     | 45,8 | 0.74                   | 19026
-|3.     | Kazachstania barnettii               | 12616033     | 33,7 | 0.64                   | 4443
-|4.     | Kazachstania saulgeensis             | 12935755     | 32,2 | 0.65                   | 6046
-|5.     | Kazachstania exigua                  | 13507013     | 33,3 | 0.62                   | 5467
-|6.     | Lachancea thermotolerans CBS 6340    | 10392862     | 47,3 | 0.73                   | 42003
-|7.     | Lachancea fermentati                 | 10264457     | 42,6 | 0.77                   | 22475
-|8.     | Lachancea lanzarotensis              | 11092131     | 44,3 | 0.68                   | 13887
-|9.     | Lachancea mirantina                  | 10117267     | 45,1 | 0.74                   | 22109
-|10.    | Lachancea quebecensis                | 10229370     | 46,7 | 0.74                   | 36547
-|11.    | Alternaria atra                      | 78177382     | 39,6 | 0.31                   | 132920
-|12.    | Alternaria rosae                     | 84993594     | 33,8 | 0.38                   | 139812
-|13.    | Ogataea angusta                      | 30596185     | 49,4 | 0.41                   | 28353
-|14.    | Ogataea haglerorum                   | 30377204     | 49,3 | 0.39                   | 28766
-|15.    | Ogataea polymorpha                   | 37588682     | 47,9 | 0.51                   | 21991
+|1.     | Kazachstania africana CBS 2517       | 11130140     | 36,3 | 0.71                   | 3 622
+|2.     | Kazachstania naganishii CBS 8797     | 10845821     | 45,8 | 0.74                   | 19 026
+|3.     | Kazachstania barnettii               | 12616033     | 33,7 | 0.64                   | 4 443
+|4.     | Kazachstania saulgeensis             | 12935755     | 32,2 | 0.65                   | 6 046
+|5.     | Kazachstania exigua                  | 13507013     | 33,3 | 0.62                   | 5 467
+|6.     | Lachancea thermotolerans CBS 6340    | 10392862     | 47,3 | 0.73                   | 42 003
+|7.     | Lachancea fermentati                 | 10264457     | 42,6 | 0.77                   | 22 475
+|8.     | Lachancea lanzarotensis              | 11092131     | 44,3 | 0.68                   | 13 887
+|9.     | Lachancea mirantina                  | 10117267     | 45,1 | 0.74                   | 22 109
+|10.    | Lachancea quebecensis                | 10229370     | 46,7 | 0.74                   | 36 547
+|11.    | Alternaria atra                      | 78177382     | 39,6 | 0.31                   | 132 920
+|12.    | Alternaria rosae                     | 84993594     | 33,8 | 0.38                   | 139 812
+|13.    | Ogataea angusta                      | 30596185     | 49,4 | 0.41                   | 28 353
+|14.    | Ogataea haglerorum                   | 30377204     | 49,3 | 0.39                   | 28 766
+|15.    | Ogataea polymorpha                   | 37588682     | 47,9 | 0.51                   | 21 991
 |16.    | Bipolaris maydis ATCC 48331          | 32929167     | 50,7 | 0.60                   | 136 035
 |17.    | Bipolaris oryzae ATCC 44560          | 31362097     | 50,5 | 0.56                   | 129 409
 |18.    | Bipolaris sorokiniana ND90Pr         | 34409167     | 49,8 | 0.60                   | 127 672
 |19.    | Bipolaris victoriae FI3              | 32829575     | 50,1 | 0.56                   | 129 053
 |20.    | Bipolaris zeicola 26-R-13            | 31267936     | 50,8 | 0.58                   | 125 028
-|21.    | Trichophyton verrucosum              | 22540967     | 48,2 | 0.52                   | 29315
-|22.    | Trichophyton rubrum                  | 22530013     | 48,3 | 0.77                   | 28033
-|23.    | Trichophyton interdigitale           | 22044533     | 48,7 | 0.51                   | 29838
-|24.    | Trichophyton equinum                 | 24158205     | 49,8 | 0.49                   | 30115
-|25.    | Trichophyton tonsurans               | 22988586     | 48,1 | 0.52                   | 29564
-|26.    | Hanseniaspora opuntiae               | 8831957      | 34,7 | 0.73                   | 1552
-|27.    | Hanseniaspora osmophila              | 11458415     | 36,7 | 0.67                   | 10130
+|21.    | Trichophyton verrucosum              | 22540967     | 48,2 | 0.52                   | 29 315
+|22.    | Trichophyton rubrum                  | 22530013     | 48,3 | 0.77                   | 28 033
+|23.    | Trichophyton interdigitale           | 22044533     | 48,7 | 0.51                   | 29 838
+|24.    | Trichophyton equinum                 | 24158205     | 49,8 | 0.49                   | 30 115
+|25.    | Trichophyton tonsurans               | 22988586     | 48,1 | 0.52                   | 29 564
+|26.    | Hanseniaspora opuntiae               | 8831957      | 34,7 | 0.73                   | 1 552
+|27.    | Hanseniaspora osmophila              | 11458415     | 36,7 | 0.67                   | 10 130
 |28.    | Hanseniaspora valbyensis NRRL Y-1626 | 11464036     | 22,6 | 0.62                   | 994
-|29.    | Pneumocystis canis                   | 7939452      | 26,3 | 0.59                   | 1396
-|30.    | Pneumocystis oryctolagi              | 7639465      | 27,8 | 0.58                   | 5548
-|31.    | Fusarium musae                       | 44016361     | 47,2 | 0.43                   | 64408
-|32.    | Fusarium poae                        | 44001690     | 46,6 | 0.44                   | 52940
-|33.    | Fusarium venenatum                   | 38660641     | 47,6 | 0.55                   | 55322
-|34.    | Fusarium pseudograminearum CS3096    | 36330246     | 47,7 | 0.48                   | 56515
-|35.    | Fusarium verticillioides 7600        | 36567790     | 47,7 | 0.52                   | 54660
-|36.    | Aspergillus fumigatus                | 29384958     | 49,8 | 0.48                   | 59749
-|37.    | Aspergillus flavus                   | 36995582     | 48,0 | 0.50                   | 61829
-|38.    | Aspergillus luchuensis IFO           | 37287723     | 48,9 | 0.47                   | 83580
-|39.    | Aspergillus chevalieri M1            | 29697343     | 49,2 | 0.48                   | 63852
-|40.    | Aspergillus puulaauensis MK2         | 34318862     | 49,8 | 0.57                   | 79369
-|41.    | Candida dubliniensis                 | 14618422     | 33,3 | 0.62                   | 1064
-|42.    | Eremothecium gossypii                | 9119312      | 51,7 | 0.80                   | 5121
-|43.    | Candida albicans                     | 14282666     | 33,5 | 0.63                   | 1100
-|44.    | Eremothecium cymbalariae             | 9669424      | 40,3 | 0.73                   | 1127
-|45.    | Candida orthopsilosis                | 12659401     | 37,6 | 0.67                   | 1134
-|46.    | Saccharomyces arboricola H-6         | 11558863     | 38,9 | 0.47                   | 7437
-|47.    | Saccharomyces eubayanus              | 11703647     | 40,0 | 0.69                   | 10197
-|48.    | Saccharomyces paradoxus              | 12092683     | 38,6 | 0.69                   | 6920
-|49.    | Naumovozyma castellii CBS 4309       | 11219539     | 36,8 | 0.74                   | 3231
-|50.    | Naumovozyma dairenensis CBS 421      | 13527580     | 34,2 | 0.64                   | 4617
+|29.    | Pneumocystis canis                   | 7939452      | 26,3 | 0.59                   | 1 396
+|30.    | Pneumocystis oryctolagi              | 7639465      | 27,8 | 0.58                   | 5 548
+|31.    | Fusarium musae                       | 44016361     | 47,2 | 0.43                   | 64 408
+|32.    | Fusarium poae                        | 44001690     | 46,6 | 0.44                   | 52 940
+|33.    | Fusarium venenatum                   | 38660641     | 47,6 | 0.55                   | 55 322
+|34.    | Fusarium pseudograminearum CS3096    | 36330246     | 47,7 | 0.48                   | 56 515
+|35.    | Fusarium verticillioides 7600        | 36567790     | 47,7 | 0.52                   | 54 660
+|36.    | Aspergillus fumigatus                | 29384958     | 49,8 | 0.48                   | 59 749
+|37.    | Aspergillus flavus                   | 36995582     | 48,0 | 0.50                   | 61 829
+|38.    | Aspergillus luchuensis IFO           | 37287723     | 48,9 | 0.47                   | 83 580
+|39.    | Aspergillus chevalieri M1            | 29697343     | 49,2 | 0.48                   | 63 852
+|40.    | Aspergillus puulaauensis MK2         | 34318862     | 49,8 | 0.57                   | 79 369
+|41.    | Candida dubliniensis                 | 14618422     | 33,3 | 0.62                   | 1 064
+|42.    | Eremothecium gossypii                | 9119312      | 51,7 | 0.80                   | 5 121
+|43.    | Candida albicans                     | 14282666     | 33,5 | 0.63                   | 1 100
+|44.    | Eremothecium cymbalariae             | 9669424      | 40,3 | 0.73                   | 1 127
+|45.    | Candida orthopsilosis                | 12659401     | 37,6 | 0.67                   | 1 134
+|46.    | Saccharomyces arboricola H-6         | 11558863     | 38,9 | 0.47                   | 7 437
+|47.    | Saccharomyces eubayanus              | 11703647     | 40,0 | 0.69                   | 10 197
+|48.    | Saccharomyces paradoxus              | 12092683     | 38,6 | 0.69                   | 6 920
+|49.    | Naumovozyma castellii CBS 4309       | 11219539     | 36,8 | 0.74                   | 3 231
+|50.    | Naumovozyma dairenensis CBS 421      | 13527580     | 34,2 | 0.64                   | 4 617
 
 Нам стало интересно посмотреть на корреляцию столбцов GC% и количества предсказанных ZDNA, поэтому мы посмотрили точечный график и посчитали коэффициент корреляции Спирмена. Коэффициент получился **0.54 - умеренная корреляция**.  
 График приведен ниже. Как видно из графика, есть облако точек (в районе небольших значений по горизонтальной оси), которое очень хорошо легло бы на линию:
@@ -182,7 +182,9 @@
 
 9. **Медь-транспортирующая атфаза. Ферменты активного транспорта ионов с затратами АТФ.**
 
-Можно заметить, большинство белков ответственны за регуляцию экспрессии генов в клетке, что позволяет считать логичным их консервативность среди родственных родов 
+### Обобщение
+
+Можно заметить, большинство белков ответственны за регуляцию экспрессии генов в клетке, что позволяет считать логичным их консервативность среди родственных родов.
 
 ## 6. Выбор нескольких кластеров и дополнительная информация по ним
 

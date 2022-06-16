@@ -68,24 +68,25 @@
 |30. |Pneumocystis oryctolagi|7639465|27,8|0.582478|5548||
 |31. | Fusarium musae |44016361||43.44|||
 |32. | Fusarium poae |44001690||44.76|||
-| 33.|Fusarium p||||||
-|34. ||||||
-|35. |Aspergillus fumigatus|29384958|49,8105|0.48|59749||
-|36. |Aspergillus flavus|36995582|48,0323|0.5|61829||
-|37. |Aspergillus luchuensis IFO|37287723|48,876|0.47|83580||
-|38. |Aspergillus chevalieri M1|29697343|49,2293|0.48|63852||
-|39. |Aspergillus puulaauensis MK2|34318862|49,754|0.57|79369||
-|40. | Candida dubliniensis | 14618422 || 0.62 | 1064
-|41. | Eremothecium gossypii | 9119312||0.8 | 5121
-|42. | Candida albicans | 14282666||0.63 | 1100
-|43. | Eremothecium cymbalariae| 9669424||0.73| 1127||
-|44. | Candida orthopsilosis|12659401||0.67| 1134|
-|45. ||||||
+|33.|Fusarium p||||||
+|34. |Fusarium pseudograminearum CS3096|||||
+|35. |Fusarium verticillioides 7600|36567790||0.48||
+|36. |Aspergillus fumigatus|29384958|49,8105|0.48|59749||
+|37. |Aspergillus flavus|36995582|48,0323|0.5|61829||
+|38. |Aspergillus luchuensis IFO|37287723|48,876|0.47|83580||
+|39. |Aspergillus chevalieri M1|29697343|49,2293|0.48|63852||
+|40. |Aspergillus puulaauensis MK2|34318862|49,754|0.57|79369||
+|41. | Candida dubliniensis | 14618422 || 0.62 | 1064
+|42. | Eremothecium gossypii | 9119312||0.8 | 5121
+|43. | Candida albicans | 14282666||0.63 | 1100
+|44. | Eremothecium cymbalariae| 9669424||0.73| 1127||
+|45. | Candida orthopsilosis|12659401||0.67| 1134|
 |46. ||||||
 |47. ||||||
 |48. ||||||
 |49. ||||||
 |50. ||||||
+
 
 
 ### a) Названия кластеров  

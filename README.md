@@ -34,6 +34,8 @@
 * **Полностью таблицу можно увидеть в [.txt файле](https://drive.google.com/file/d/171tNxe6vZkWm6lJkNMI3cg0HvrGfJhFb/view?usp=sharing) и в [.csv файле](https://drive.google.com/file/d/1--TKCONqmjJA0y3wkSs7H5779GAFDrik/view?usp=sharing)**.   
 # 2. Статистика по кластерам, где участвуют по крайней мере 25 (половина) видов  
 ### a) Названия кластеров  
+Таблицы с названиями для кластеров можно увидеть в [файле](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/features2.csv)  
+Функции были взяты из поля ```product``` в файлах с аннотациями.  
 ### b) Количество генов   
 Гистограмма распределения количества генов в кластерах:  
 ![](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/pic/genes.png)

@@ -213,7 +213,20 @@
 
 * [clust2](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/clusters/clust2_aminoacid_align.fas),  
 * [clust5](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/clusters/clust5_aminoacid_align.fas),  
-* [clust7](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/clusters/clust7_aminoacid_align.fas).
+* [clust7](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/clusters/clust7_aminoacid_align.fas).  
+
+### Нуклеотидное выравнивание участков ZDNA (всех, попавших в промотеры)
+
+Так как подобные участки располагаются в разных частях промотеров генов, то сравнивать консервативность нуклеотидов по всем последовательностям сразу не нужно. Достаточно посмотреть, что у последовательностей приблизительно равной длины сохраняются многие нуклеотиды и они достаточно хорошо выравниваются.  
+
+Выравнивание, как нам кажется, лучше получилось с помощью Muscle, а не ClustalW, но приведем и те, и другие файлы:  
+  
+* [clust2 Muscle](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/clusters/clust2_zdna_muscle.fas),  
+* [clust2 Clustal W](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/clusters/clust2_zdna.fasta),  
+* [clust5 Muscle](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/clusters/clust5_zdna_muscle.fas),  
+* [clust5 Clustal W](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/clusters/clust5_zdna.fasta),  
+* [clust7 Muscle](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/clusters/clust7_zdna_muscle.fas),  
+* [clust7 Clustal W](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/clusters/clust7_zdna.fasta).
 
 ## Выводы  
 
@@ -222,7 +235,7 @@
 3. Исходя из нескольких факторов (функций, скора proteinortho, zh-score), выбрали 3 кластера и провели их более подробный анализ
 4. Подводя итоги, нам удалось найти консервативную z-dna в генах, кодирующих значимые белки для данных родственных видов
 
-## Бонус. Анализ квадруплексов
+## Бонуc. Анализ квадруплексов
 
 * Количество генов. Гистограмма распределения количества генов в кластерах:  
 ![genes](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/quadruplex/pic/genes.png)

@@ -94,7 +94,7 @@
 ![](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/quadruplex/pic/genes.png)
 * Количество видов  
 Гистограмма распределения количества видов в кластерах:  
-![](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/quadruplex/pic/species.png)
+![](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/quadruplex/pic/scecies.png)
 * Количество генов, у которых есть квадруплекс в промотере  
 Гистограмма распределения количества генов с предсказанным квадруплексом в районе промотера:  
 ![](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/quadruplex/pic/quads_in_promoter.png)

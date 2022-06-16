@@ -133,11 +133,13 @@
 
 ## 3. Выбор кластеров с наибольшим количеством генов с консервативной Z-DNA в промотере
 
-  Все кластеры были отсортированы по количеству генов в них с Z-DNA в районе промотера. В случае одинакового количества таких генов (второй уровень сортировки) - по среднему ZHunt Score среди генов кластера.
+Все кластеры были отсортированы по количеству генов в них с Z-DNA в районе промотера. В случае одинакового количества таких генов (второй уровень сортировки) - по среднему ZHunt Score среди генов кластера.
 
-[Таблица](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/tables_of_50_genomes/clusters.txt) с информацией о кластерах выглядит следующим образом:  
-Количество видов которые участвуют в создании кластера, Количество генов, Сколько из видов имеют предсказанную ZDNA в промотере, Cредний Zhunt Score, Максимальный Zhunt Score в кластере.  
-Затем в таблице находятся 50 столбцов, где написан белок из файлов myproject.proteinortho, Затем 0 или 1 (0 - нет Z-DNA в промотере, 1 - есть) и если было 1, то описание этой Z-DNA.
+[Таблица](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/tables_of_50_genomes/clusters.txt) с информацией о кластерах выглядит следующим образом:
+
+* Количество видов которые участвуют в создании кластера, Количество генов, Сколько из видов имеют предсказанную ZDNA в промотере, Cредний Zhunt Score, Максимальный Zhunt Score в кластере.
+* Затем в таблице находятся 50 столбцов, где написан белок из файлов myproject.proteinortho, Затем 0 или 1 (0 - нет Z-DNA в промотере, 1 - есть) и если было 1, то описание этой Z-DNA.
+
 ![table example](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/pic/table%20example.PNG)
 
 ## 4. Тепловая карта
@@ -145,6 +147,7 @@
 Тепловая карта, где по строкам располагаются геномы, а по столбцам выбранные кластеры.  
 Белый цвет ячейки означает, что в данном гене нет предсказанной Z-DNA в промотере.  
 Серый цвет ячейки означает, что этот геном не представлен в кластере.
+
 ![heat_map](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/pic/heat_map.jpg)
 
 ## 5. Названия (наиболее частые функции) для выбранных 10-ти кластеров
@@ -188,7 +191,7 @@
 
 ## 6. Выбор нескольких кластеров и дополнительная информация по ним
 
-Выбрали 2,5 и 7 (основываясь на таких факторах, как количество геномов в кластере, средний zh-score и функции)
+Выбрали 2, 5 и 7 (основываясь на таких факторах, как количество геномов в кластере, средний zh-score и функции).
 
 ### a) Визуализация с помощью Dna Features Viewer
 
@@ -198,9 +201,11 @@
 
 ### b) Нуклеотидное выравнивание с Z-DNA
 
-Файлы: [clust2](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/clusters/clust2_nucleotide_align_ZDNA.fas),  
-[clust5](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/clusters/clust5_nucleotide_align_ZDNA.fas),  
-[clust7](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/clusters/clust7_nucleotide_align_ZDNA.fas)
+Файлы:
+
+* [clust2](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/clusters/clust2_nucleotide_align_ZDNA.fas),  
+* [clust5](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/clusters/clust5_nucleotide_align_ZDNA.fas),  
+* [clust7](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/clusters/clust7_nucleotide_align_ZDNA.fas).
 
 ### c) Аминокислотное выравнивание
 
@@ -217,7 +222,7 @@
 3. Исходя из нескольких факторов (функций, скора proteinortho, zh-score), выбрали 3 кластера и провели их более подробный анализ
 4. Подводя итоги, нам удалось найти консервативную z-dna в генах, кодирующих значимые белки для данных родственных видов
 
-## Бонус. Анализ квадруплексов
+## Бону. Анализ квадруплексов
 
 * Количество генов
 Гистограмма распределения количества генов в кластерах:  
@@ -234,14 +239,15 @@
 * Средний Quadruplex Score  
 ![mean](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/quadruplex/pic/mean.png)
 
-## Выбор кластеров
+### Выбор кластеров
 
 Кластеры выбраны с наибольшем количеством генов, у которых есть квадруплекс в промотере. Второй уровень сортировки по mean score.  
 Кластеры можно посмотреть [здесь в файле](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/quadruplex/clusters.txt).
 
-## Тепловая карта. Квадруплексы
+### Тепловая карта
 
 Тепловая карта, где по строкам располагаются геномы, а по столбцам выбранные кластеры.  
 Белый цвет ячейки означает, что в данном гене нет предсказанного квадруплекса.  
 Серый цвет ячейки означает, что этот геном не представлен в кластере.
+
 ![heatmap](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/quadruplex/pic/heatmap.png)

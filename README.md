@@ -66,6 +66,9 @@
 |28. |Hanseniaspora valbyensis NRRL Y-1626|11464036|22,6|0.617387|994||
 |29. |Pneumocystis canis|7939452|26,3|0.594793|1396||
 |30. |Pneumocystis oryctolagi|7639465|27,8|0.582478|5548||
+|31. | Fusarium musae |
+|32. | Fusarium poae |
+|
 
 
 ### a) Названия кластеров  

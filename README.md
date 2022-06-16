@@ -170,7 +170,9 @@
 ![](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/quadruplex/pic/max.png)  
 * Средний Quadruplex Score  
 ![](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/quadruplex/pic/mean.png)    
-
+# Выбор кластеров
+Кластеры выбраны с наибольшем количеством генов, у которых есть квадруплекс в промотере. Второй уровень сортировки по mean score.  
+Кластеры можно посмотреть [здесь в файле](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/quadruplex/clusters.txt).   
 # Тепловая карта. Квадруплексы
 Тепловая карта, где по строкам располагаются геномы, а по столбцам выбранные кластеры.  
 Белый цвет ячейки означает, что в данном гене нет предсказанного квадруплекса.  

@@ -34,7 +34,7 @@
 * **Полностью таблицу можно увидеть в [.txt файле](https://drive.google.com/file/d/171tNxe6vZkWm6lJkNMI3cg0HvrGfJhFb/view?usp=sharing) и в [.csv файле](https://drive.google.com/file/d/1--TKCONqmjJA0y3wkSs7H5779GAFDrik/view?usp=sharing)**.   
 # 2. Статистика по кластерам, где участвуют по крайней мере 25 (половина) видов  
 ### Информация о геномах (собрана из индивидуальных частей)  
-|Номер|Название| Длина генома|Средний GC% | Доля аннотированных генов | Кол-во Z-DNA | Кол-во генов, которые имели Z-DNA в промотере |
+|Номер|Название| Длина генома|GC% | Доля аннотированных генов | Кол-во Z-DNA | Кол-во генов, которые имели Z-DNA в промотере |
 |--|--------|--------------------|------------|-----------------------|------------------|---------------------------------------------------|
 |1. |Kazachstania africana CBS 2517|11,130,140|36,3068|0.710668	|3622||
 |2. |Kazachstania naganishii CBS 8797|10,845,821|45,8879|0.740008|19026||
@@ -45,7 +45,19 @@
 |7. |Lachancea fermentati|10264457|42,582|0.77|22475||
 |8. |Lachancea lanzarotensis|11092131|44,3|0.68|13887||
 |9. |Lachancea mirantina|10117267|45,1112|0.74|22109||
-|9. |Lachancea quebecensis|10229370|46,7|0.74|36547||
+|10. |Lachancea quebecensis|10229370|46,7|0.74|36547||
+|11. |Alternaria atra|78177382|39,6|0.31|||
+|12. |Alternaria rosae|84993594|33,8|0.38|||
+|13. |Ogataea angusta|30596185|49,4|0.41|||
+|14. |Ogataea haglerorum|30377204|49,3|0.39|||
+|15. |Ogataea polymorpha|37588682|47,9|0.51|||
+|16. |Lachancea quebecensis|10229370|46,7|0.74|36547||
+|17. |Alternaria atra|78177382|39,6|0.31|||
+|18. |Alternaria rosae|84993594|33,8|0.38|||
+|19. |Ogataea angusta|30596185|49,4|0.41|||
+|20. |Ogataea haglerorum|30377204|49,3|0.39|||
+|21. |Ogataea polymorpha|37588682|47,9|0.51|||
+
 
 ### a) Названия кластеров  
 Таблицы с названиями для кластеров можно увидеть в [файле](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/features2.csv)  

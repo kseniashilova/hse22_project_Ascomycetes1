@@ -46,16 +46,16 @@
 |8. |Lachancea lanzarotensis|11092131|44,3|0.68|13887||
 |9. |Lachancea mirantina|10117267|45,1112|0.74|22109||
 |10. |Lachancea quebecensis|10229370|46,7|0.74|36547||
-|11. |Alternaria atra|78177382|39,6|0.31|||
-|12. |Alternaria rosae|84993594|33,8|0.38|||
-|13. |Ogataea angusta|30596185|49,4|0.41|||
-|14. |Ogataea haglerorum|30377204|49,3|0.39|||
-|15. |Ogataea polymorpha|37588682|47,9|0.51|||
-|16. |Bipolaris maydis ATCC 48331|32 929 167|50,7|0.60|36547||
-|17. |Bipolaris oryzae ATCC 44560|31 362 097|50,5|0.56|||
-|18. |Bipolaris sorokiniana ND90Pr|34 409 167|49,8|0.60|||
-|19. |Bipolaris victoriae FI3|32 829 575|50,1|0.56|||
-|20. |Bipolaris zeicola 26-R-13|31 267 936|	50,8|0.58|||
+|11. |Alternaria atra|78177382|39,6|0.31|132920||
+|12. |Alternaria rosae|84993594|33,8|0.38|139812||
+|13. |Ogataea angusta|30596185|49,4|0.41|28353||
+|14. |Ogataea haglerorum|30377204|49,3|0.39|28766||
+|15. |Ogataea polymorpha|37588682|47,9|0.51|21991||
+|16. |Bipolaris maydis ATCC 48331|32 929 167|50,7|0.60|136 035||
+|17. |Bipolaris oryzae ATCC 44560|31 362 097|50,5|0.56|129 409||
+|18. |Bipolaris sorokiniana ND90Pr|34 409 167|49,8|0.60|127 672||
+|19. |Bipolaris victoriae FI3|32 829 575|50,1|0.56|129 053||
+|20. |Bipolaris zeicola 26-R-13|31 267 936|	50,8|0.58|125 028||
 
 
 

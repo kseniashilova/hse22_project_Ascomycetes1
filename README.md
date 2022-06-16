@@ -74,7 +74,7 @@
 |36. |Aspergillus flavus|36995582|48,0323|0.5|61829||
 |37. |Aspergillus luchuensis IFO|37287723|48,876|0.47|83580||
 |38. |Aspergillus chevalieri M1|29697343|49,2293|0.48|63852||
-|39. |Aspergillus puulaauensis MK2|34318862|49,754|0.57|34318862||
+|39. |Aspergillus puulaauensis MK2|34318862|49,754|0.57|79369||
 |40. | Candida dubliniensis | 14618422 || 0.62 | 1064
 |41. | Eremothecium gossypii | 9119312||0.8 | 5121
 |42. | Candida albicans | 14282666||0.63 | 1100

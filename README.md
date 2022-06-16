@@ -76,11 +76,11 @@
 |38. |Aspergillus luchuensis IFO|37287723|48,9|0.47|83580
 |39. |Aspergillus chevalieri M1|29697343|49,2|0.48|63852
 |40. |Aspergillus puulaauensis MK2|34318862|49,8|0.57|79369
-|41. | Candida dubliniensis | 14618422 || 0.62 | 1064
-|42. | Eremothecium gossypii | 9119312||0.8 | 5121
-|43. | Candida albicans | 14282666||0.63 | 1100
-|44. | Eremothecium cymbalariae| 9669424||0.73| 1127
-|45. | Candida orthopsilosis|12659401||0.67| 1134
+|41. | Candida dubliniensis | 14618422 |33,3| 0.62 | 1064
+|42. | Eremothecium gossypii | 9119312|51,7|0.8 | 5121
+|43. | Candida albicans | 14282666|33,5|0.63 | 1100
+|44. | Eremothecium cymbalariae| 9669424|40,3|0.73| 1127
+|45. | Candida orthopsilosis|12659401|37,6|0.67| 1134
 |46. |Saccharomyces arboricola H-6|11558863|38,9|0.47|7437
 |47. |Saccharomyces eubayanus|11703647|40,0|0.69|10197
 |48. |Saccharomyces paradoxus|12092683|38,6|0.69|6920

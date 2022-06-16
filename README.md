@@ -36,56 +36,56 @@
 ### Информация о геномах (собрана из индивидуальных частей)  
 |Номер|Название| Длина генома| GC% | Доля аннотированных генов | Кол-во Z-DNA
 |-----|--------|--------- ---|-----|-----------------------|---|--------------
-|1. |Kazachstania africana CBS 2517|11,130,140|36,3068|0.710668	|3622|
-|2. |Kazachstania naganishii CBS 8797|10,845,821|45,8879|0.740008|19026|
-|3. |Kazachstania barnettii|12,616,033|33,7|0.644475|4443|
-|4. |Kazachstania saulgeensis|12,935,755|32,2|0.646064|6046|
-|5. |Kazachstania exigua|13,507,013|33,3|0.619264|5467|
-|6. |Lachancea thermotolerans CBS 6340|10392862|47,2838	|0.73|42003|
-|7. |Lachancea fermentati|10264457|42,582|0.77|22475|
-|8. |Lachancea lanzarotensis|11092131|44,3|0.68|13887|
-|9. |Lachancea mirantina|10117267|45,1112|0.74|22109|
-|10. |Lachancea quebecensis|10229370|46,7|0.74|36547|
-|11. |Alternaria atra|78177382|39,6|0.31|132920|
-|12. |Alternaria rosae|84993594|33,8|0.38|139812|
-|13. |Ogataea angusta|30596185|49,4|0.41|28353|
-|14. |Ogataea haglerorum|30377204|49,3|0.39|28766|
-|15. |Ogataea polymorpha|37588682|47,9|0.51|21991|
-|16. |Bipolaris maydis ATCC 48331|32 929 167|50,7|0.60|136 035|
-|17. |Bipolaris oryzae ATCC 44560|31 362 097|50,5|0.56|129 409|
-|18. |Bipolaris sorokiniana ND90Pr|34 409 167|49,8|0.60|127 672|
-|19. |Bipolaris victoriae FI3|32 829 575|50,1|0.56|129 053|
-|20. |Bipolaris zeicola 26-R-13|31 267 936|	50,8|0.58|125 028|
-|21. |Trichophyton verrucosum	|22540967|48.2|0.52|29315|
-|22. |Trichophyton rubrum|22530013|48.3|0.77|28033|
-|23. |Trichophyton interdigitale|22044533|48.7|0.51|29838|
-|24. |Trichophyton equinum|24158205|49,8|0.49|30115|
-|25. |Trichophyton tonsurans|22988586|48.1|0.52|29564|
-|26. |Hanseniaspora opuntiae|8831957| 34,7| 0.727557|1552|
-|27. |Hanseniaspora osmophila|11458415|36,7|0.673249|10130|
-|28. |Hanseniaspora valbyensis NRRL Y-1626|11464036|22,6|0.617387|994|
-|29. |Pneumocystis canis|7939452|26,3|0.594793|1396|
-|30. |Pneumocystis oryctolagi|7639465|27,8|0.582478|5548|
-|31. | Fusarium musae |44016361|47.2|0.43|64408|
-|32. | Fusarium poae |44001690|46.6|0.44|52940|
-|33.|Fusarium venenatum|38660641|47.6|0.55|55322|
-|34. |Fusarium pseudograminearum CS3096|36330246|47.7|0.48|56515|
-|35. |Fusarium verticillioides 7600|36567790|47.7|0.52|54660|
-|36. |Aspergillus fumigatus|29384958|49,8105|0.48|59749|
-|37. |Aspergillus flavus|36995582|48,0323|0.5|61829|
-|38. |Aspergillus luchuensis IFO|37287723|48,876|0.47|83580|
-|39. |Aspergillus chevalieri M1|29697343|49,2293|0.48|63852|
-|40. |Aspergillus puulaauensis MK2|34318862|49,754|0.57|79369|
+|1. |Kazachstania africana CBS 2517|11,130,140|36,3068|0.710668	|3622
+|2. |Kazachstania naganishii CBS 8797|10,845,821|45,8879|0.740008|19026
+|3. |Kazachstania barnettii|12,616,033|33,7|0.644475|4443
+|4. |Kazachstania saulgeensis|12,935,755|32,2|0.646064|6046
+|5. |Kazachstania exigua|13,507,013|33,3|0.619264|5467
+|6. |Lachancea thermotolerans CBS 6340|10392862|47,2838	|0.73|42003
+|7. |Lachancea fermentati|10264457|42,582|0.77|22475
+|8. |Lachancea lanzarotensis|11092131|44,3|0.68|13887
+|9. |Lachancea mirantina|10117267|45,1112|0.74|22109
+|10. |Lachancea quebecensis|10229370|46,7|0.74|36547
+|11. |Alternaria atra|78177382|39,6|0.31|132920
+|12. |Alternaria rosae|84993594|33,8|0.38|139812
+|13. |Ogataea angusta|30596185|49,4|0.41|28353
+|14. |Ogataea haglerorum|30377204|49,3|0.39|28766
+|15. |Ogataea polymorpha|37588682|47,9|0.51|21991
+|16. |Bipolaris maydis ATCC 48331|32 929 167|50,7|0.60|136 035
+|17. |Bipolaris oryzae ATCC 44560|31 362 097|50,5|0.56|129 409
+|18. |Bipolaris sorokiniana ND90Pr|34 409 167|49,8|0.60|127 672
+|19. |Bipolaris victoriae FI3|32 829 575|50,1|0.56|129 053
+|20. |Bipolaris zeicola 26-R-13|31 267 936|	50,8|0.58|125 028
+|21. |Trichophyton verrucosum	|22540967|48.2|0.52|29315
+|22. |Trichophyton rubrum|22530013|48.3|0.77|28033
+|23. |Trichophyton interdigitale|22044533|48.7|0.51|29838
+|24. |Trichophyton equinum|24158205|49,8|0.49|30115
+|25. |Trichophyton tonsurans|22988586|48.1|0.52|29564
+|26. |Hanseniaspora opuntiae|8831957| 34,7| 0.727557|1552
+|27. |Hanseniaspora osmophila|11458415|36,7|0.673249|10130
+|28. |Hanseniaspora valbyensis NRRL Y-1626|11464036|22,6|0.617387|994
+|29. |Pneumocystis canis|7939452|26,3|0.594793|1396
+|30. |Pneumocystis oryctolagi|7639465|27,8|0.582478|5548
+|31. | Fusarium musae |44016361|47.2|0.43|64408
+|32. | Fusarium poae |44001690|46.6|0.44|52940
+|33.|Fusarium venenatum|38660641|47.6|0.55|55322
+|34. |Fusarium pseudograminearum CS3096|36330246|47.7|0.48|56515
+|35. |Fusarium verticillioides 7600|36567790|47.7|0.52|54660
+|36. |Aspergillus fumigatus|29384958|49,8105|0.48|59749
+|37. |Aspergillus flavus|36995582|48,0323|0.5|61829
+|38. |Aspergillus luchuensis IFO|37287723|48,876|0.47|83580
+|39. |Aspergillus chevalieri M1|29697343|49,2293|0.48|63852
+|40. |Aspergillus puulaauensis MK2|34318862|49,754|0.57|79369
 |41. | Candida dubliniensis | 14618422 || 0.62 | 1064
 |42. | Eremothecium gossypii | 9119312||0.8 | 5121
 |43. | Candida albicans | 14282666||0.63 | 1100
-|44. | Eremothecium cymbalariae| 9669424||0.73| 1127|
-|45. | Candida orthopsilosis|12659401||0.67| 1134|
-|46. |Saccharomyces arboricola H-6|11558863|38,851|0.47|7437|
-|47. |Saccharomyces eubayanus|11703647|39,9557|0.69|10197|
-|48. |Saccharomyces paradoxus|12092683|38,562|0.69|6920|
-|49. |Naumovozyma castellii CBS 4309|11219539|36,7559|0.74|3231|
-|50. |Naumovozyma dairenensis CBS 421|13527580|34,1768|0.64|4617|
+|44. | Eremothecium cymbalariae| 9669424||0.73| 1127
+|45. | Candida orthopsilosis|12659401||0.67| 1134
+|46. |Saccharomyces arboricola H-6|11558863|38,851|0.47|7437
+|47. |Saccharomyces eubayanus|11703647|39,9557|0.69|10197
+|48. |Saccharomyces paradoxus|12092683|38,562|0.69|6920
+|49. |Naumovozyma castellii CBS 4309|11219539|36,7559|0.74|3231
+|50. |Naumovozyma dairenensis CBS 421|13527580|34,1768|0.64|4617
 
 
 

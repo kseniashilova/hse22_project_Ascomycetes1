@@ -36,11 +36,11 @@
 ### Информация о геномах (собрана из индивидуальных частей)  
 |Номер|Название| Длина генома| GC% | Доля аннотированных генов | Кол-во Z-DNA
 |-----|--------|------------:|-----|---------------------------|-------------:
-|1. |Kazachstania africana CBS 2517|11130140|36,3|0.710668	|3622
-|2. |Kazachstania naganishii CBS 8797|10845821|45,8|0.740008|19026
-|3. |Kazachstania barnettii|12616033|33,7|0.644475|4443
-|4. |Kazachstania saulgeensis|12935755|32,2|0.646064|6046
-|5. |Kazachstania exigua|13507013|33,3|0.619264|5467
+|1. |Kazachstania africana CBS 2517|11130140|36,3|0.71 |3622
+|2. |Kazachstania naganishii CBS 8797|10845821|45,8|0.74 |19026
+|3. |Kazachstania barnettii|12616033|33,7|0.64 |4443
+|4. |Kazachstania saulgeensis|12935755|32,2|0.65 |6046
+|5. |Kazachstania exigua|13507013|33,3|0.62 |5467
 |6. |Lachancea thermotolerans CBS 6340|10392862|47,3 |0.73|42003
 |7. |Lachancea fermentati|10264457|42,6|0.77|22475
 |8. |Lachancea lanzarotensis|11092131|44,3|0.68|13887
@@ -61,11 +61,11 @@
 |23. |Trichophyton interdigitale|22044533|48,7|0.51|29838
 |24. |Trichophyton equinum|24158205|49,8|0.49|30115
 |25. |Trichophyton tonsurans|22988586|48,1|0.52|29564
-|26. |Hanseniaspora opuntiae|8831957| 34,7| 0.727557|1552
-|27. |Hanseniaspora osmophila|11458415|36,7|0.673249|10130
-|28. |Hanseniaspora valbyensis NRRL Y-1626|11464036|22,6|0.617387|994
-|29. |Pneumocystis canis|7939452|26,3|0.594793|1396
-|30. |Pneumocystis oryctolagi|7639465|27,8|0.582478|5548
+|26. |Hanseniaspora opuntiae|8831957| 34,7| 0.73 |1552
+|27. |Hanseniaspora osmophila|11458415|36,7|0.67|10130
+|28. |Hanseniaspora valbyensis NRRL Y-1626|11464036|22,6|0.62 |994
+|29. |Pneumocystis canis|7939452|26,3|0.59|1396
+|30. |Pneumocystis oryctolagi|7639465|27,8|0.58 |5548
 |31. | Fusarium musae |44016361|47,2|0.43|64408
 |32. | Fusarium poae |44001690|46,6|0.44|52940
 |33.|Fusarium venenatum|38660641|47,6|0.55|55322

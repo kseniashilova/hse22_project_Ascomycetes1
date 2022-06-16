@@ -61,8 +61,11 @@
 |23. |Trichophyton interdigitale|22044533|48.7|0.51|29838||
 |24. |Trichophyton equinum|24158205|49,8|0.49|30115||
 |25. |Trichophyton tonsurans|22988586|48.1|0.52|29564||
-|26. |
-
+|26. |Hanseniaspora opuntiae|8831957| 34,7| 0.727557|1552||
+|27. |Hanseniaspora osmophila|11458415|36,7|0.673249|10130||
+|28. |Hanseniaspora valbyensis NRRL Y-1626|11464036|22,6|0.617387|994||
+|29. |Pneumocystis canis|7939452|26,3|0.594793|1396||
+|30. |Pneumocystis oryctolagi|7639465|27,8|0.582478|5548||
 
 
 ### a) Названия кластеров  

@@ -61,6 +61,7 @@
 |23. |Trichophyton interdigitale|22044533|48.7|0.51|29838||
 |24. |Trichophyton equinum|24158205|49,8|0.49|30115||
 |25. |Trichophyton tonsurans|22988586|48.1|0.52|29564||
+|26. |
 
 
 

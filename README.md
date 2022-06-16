@@ -54,7 +54,7 @@
 |16. |Bipolaris maydis ATCC 48331|32929167|50,7|0.60|136 035
 |17. |Bipolaris oryzae ATCC 44560|31362097|50,5|0.56|129 409
 |18. |Bipolaris sorokiniana ND90Pr|34409167|49,8|0.60|127 672
-|19. |Bipolaris victoriae FI3|32 829 575|50,1|0.56|129 053
+|19. |Bipolaris victoriae FI3|32829575|50,1|0.56|129 053
 |20. |Bipolaris zeicola 26-R-13|31267936|	50,8|0.58|125 028
 |21. |Trichophyton verrucosum	|22540967|48,2|0.52|29315
 |22. |Trichophyton rubrum|22530013|48,3|0.77|28033

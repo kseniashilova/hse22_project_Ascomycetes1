@@ -70,12 +70,11 @@
 |32. | Fusarium poae ||||||
 | 33.| ||||||
 |34. ||||||
-|35. ||||||
-|36. ||||||
-|37. ||||||
-|38. ||||||
-|39. ||||||
-|40. ||||||
+|35. |Aspergillus fumigatus|29384958|49,8105|0.48|59749||
+|36. |Aspergillus flavus|36995582|48,0323|0.5|61829||
+|37. |Aspergillus luchuensis IFO|37287723|48,876|0.47|83580||
+|38. |Aspergillus chevalieri M1|29697343|49,2293|0.48|63852||
+|39. |Aspergillus puulaauensis MK2|34318862|49,754|0.57|34318862||
 |40. | Candida dubliniensis | 14618422 || 0.62 | 1064
 |41. | Eremothecium gossypii | 9119312||0.8 | 5121
 |42. | Candida albicans | 14282666||0.63 | 1100

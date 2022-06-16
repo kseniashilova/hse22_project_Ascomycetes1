@@ -36,11 +36,11 @@
 ### Информация о геномах (собрана из индивидуальных частей)  
 |Номер|Название| Длина генома| GC% | Доля аннотированных генов | Кол-во Z-DNA
 |-----|--------|-------------|-----|---------------------------|-------------:
-|1. |Kazachstania africana CBS 2517|11,130,140|36,3068|0.710668	|3622
-|2. |Kazachstania naganishii CBS 8797|10,845,821|45,8879|0.740008|19026
-|3. |Kazachstania barnettii|12,616,033|33,7|0.644475|4443
-|4. |Kazachstania saulgeensis|12,935,755|32,2|0.646064|6046
-|5. |Kazachstania exigua|13,507,013|33,3|0.619264|5467
+|1. |Kazachstania africana CBS 2517|11130140|36,3068|0.710668	|3622
+|2. |Kazachstania naganishii CBS 8797|10845821|45,8879|0.740008|19026
+|3. |Kazachstania barnettii|12616033|33,7|0.644475|4443
+|4. |Kazachstania saulgeensis|12935755|32,2|0.646064|6046
+|5. |Kazachstania exigua|13507013|33,3|0.619264|5467
 |6. |Lachancea thermotolerans CBS 6340|10392862|47,2838	|0.73|42003
 |7. |Lachancea fermentati|10264457|42,582|0.77|22475
 |8. |Lachancea lanzarotensis|11092131|44,3|0.68|13887
@@ -51,11 +51,11 @@
 |13. |Ogataea angusta|30596185|49,4|0.41|28353
 |14. |Ogataea haglerorum|30377204|49,3|0.39|28766
 |15. |Ogataea polymorpha|37588682|47,9|0.51|21991
-|16. |Bipolaris maydis ATCC 48331|32 929 167|50,7|0.60|136 035
-|17. |Bipolaris oryzae ATCC 44560|31 362 097|50,5|0.56|129 409
-|18. |Bipolaris sorokiniana ND90Pr|34 409 167|49,8|0.60|127 672
+|16. |Bipolaris maydis ATCC 48331|32929167|50,7|0.60|136 035
+|17. |Bipolaris oryzae ATCC 44560|31362097|50,5|0.56|129 409
+|18. |Bipolaris sorokiniana ND90Pr|34409167|49,8|0.60|127 672
 |19. |Bipolaris victoriae FI3|32 829 575|50,1|0.56|129 053
-|20. |Bipolaris zeicola 26-R-13|31 267 936|	50,8|0.58|125 028
+|20. |Bipolaris zeicola 26-R-13|31267936|	50,8|0.58|125 028
 |21. |Trichophyton verrucosum	|22540967|48.2|0.52|29315
 |22. |Trichophyton rubrum|22530013|48.3|0.77|28033
 |23. |Trichophyton interdigitale|22044533|48.7|0.51|29838

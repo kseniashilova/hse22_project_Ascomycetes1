@@ -66,9 +66,27 @@
 |28. |Hanseniaspora valbyensis NRRL Y-1626|11464036|22,6|0.617387|994||
 |29. |Pneumocystis canis|7939452|26,3|0.594793|1396||
 |30. |Pneumocystis oryctolagi|7639465|27,8|0.582478|5548||
-|31. | Fusarium musae |
-|32. | Fusarium poae |
-|
+|31. | Fusarium musae | |||||
+|32. | Fusarium poae ||||||
+| 33.| ||||||
+|34. ||||||
+|35. ||||||
+|36. ||||||
+|37. ||||||
+|38. ||||||
+|39. ||||||
+|40. ||||||
+|40. | Candida dubliniensis | 14618422 || 0.62 | 1064
+|41. | Eremothecium gossypii | 9119312||0.8 | 5121
+|42. | Candida albicans | 14282666||0.63 | 1100
+|43. | Eremothecium cymbalariae| 9669424||0.73| 1127||
+|44. | Candida orthopsilosis|12659401||0.67| 1134|
+|45. ||||||
+|46. ||||||
+|47. ||||||
+|48. ||||||
+|49. ||||||
+|50. ||||||
 
 
 ### a) Названия кластеров  

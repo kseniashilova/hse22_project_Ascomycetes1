@@ -56,11 +56,11 @@
 |18. |Bipolaris sorokiniana ND90Pr|34 409 167|49,8|0.60|127 672||
 |19. |Bipolaris victoriae FI3|32 829 575|50,1|0.56|129 053||
 |20. |Bipolaris zeicola 26-R-13|31 267 936|	50,8|0.58|125 028||
-|21. |Ogataea polymorpha|37588682|47,9|0.51|21991||
-|22. |Bipolaris maydis ATCC 48331|32 929 167|50,7|0.60|136 035||
-|23. |Bipolaris oryzae ATCC 44560|31 362 097|50,5|0.56|129 409||
-|24. |Bipolaris sorokiniana ND90Pr|34 409 167|49,8|0.60|127 672||
-|25. |Bipolaris victoriae FI3|32 829 575|50,1|0.56|129 053||
+|21. |Trichophyton verrucosum	|22540967|48.2|0.52|29315||
+|22. |Trichophyton rubrum|22530013|48.3|0.77|28033||
+|23. |Trichophyton interdigitale|22044533|48.7|0.51|29838||
+|24. |Trichophyton equinum|24158205|49,8|0.49|30115||
+|25. |Trichophyton tonsurans|22988586|48.1|0.52|29564||
 
 
 

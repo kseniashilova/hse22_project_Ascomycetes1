@@ -15,7 +15,7 @@
 | Шагалкина Дарья        | Candida, Eremothecium       | [adriadar](https://github.com/adriadar/hse22_project)
 | Шилова Ксения          | Saccharomyces, Naumovozyma  | [kseniashilova](https://github.com/kseniashilova/hse22_project)
 
-Код находится в [Google colab](https://colab.research.google.com/drive/1myWxls72ZCpo1IuQsPOtPUtDFzogMF-M?usp=sharing)  
+Код находится в [Google colab](https://colab.research.google.com/drive/1myWxls72ZCpo1IuQsPOtPUtDFzogMF-M?usp=sharing), а также в папке [src](https://github.com/kseniashilova/hse22_project_Ascomycetes1/tree/main/src).    
 Все файлы, использовавшиесяв процессе работы, находятся на [гугл диске](https://drive.google.com/drive/folders/1r5IfjANJg3Nt-GnA2TBUgyQXWJoYUtfy?usp=sharing).
 
 ## 1. Создание ортологичных кластеров внутри таксона

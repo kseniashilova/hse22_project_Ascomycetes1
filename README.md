@@ -205,7 +205,14 @@
 
 * [clust2](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/clusters/clust2_nucleotide_align_ZDNA.fas),  
 * [clust5](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/clusters/clust5_nucleotide_align_ZDNA.fas),  
-* [clust7](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/clusters/clust7_nucleotide_align_ZDNA.fas).
+* [clust7](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/clusters/clust7_nucleotide_align_ZDNA.fas).    
+Скриншоты с варывниванием:  
+* Clust 2  
+![](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/pic%20mega%20x/clust2_nucleotide_ZDNA.PNG)  
+* Clust 5  
+![](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/pic%20mega%20x/clust5_nucleotide_ZDNA.PNG)  
+* Clust 7  
+![](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/pic%20mega%20x/clust7_nucleotide_ZDNA.PNG)  
 
 ### c) Аминокислотное выравнивание
 
@@ -213,20 +220,34 @@
 
 * [clust2](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/clusters/clust2_aminoacid_align.fas),  
 * [clust5](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/clusters/clust5_aminoacid_align.fas),  
-* [clust7](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/clusters/clust7_aminoacid_align.fas).  
+* [clust7](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/clusters/clust7_aminoacid_align.fas).    
+Скриншоты с варывниванием:  
+* Clust 2  
+![](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/pic%20mega%20x/clust2_aminoacid.PNG)  
+* Clust 5  
+![](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/pic%20mega%20x/clust5_aminoacid.PNG)  
+* Clust 7  
+![](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/pic%20mega%20x/clust7_aminoacid.PNG)    
 
 ### Нуклеотидное выравнивание участков ZDNA (всех, попавших в промотеры)
 
 Так как подобные участки располагаются в разных частях промотеров генов, то сравнивать консервативность нуклеотидов по всем последовательностям сразу не нужно. Достаточно посмотреть, что у последовательностей приблизительно равной длины сохраняются многие нуклеотиды и они достаточно хорошо выравниваются.  
 
 Выравнивание, как нам кажется, лучше получилось с помощью Muscle, а не ClustalW, но приведем и те, и другие файлы:  
-  
+Файлы:    
 * [clust2 Muscle](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/clusters/clust2_zdna_muscle.fas),  
 * [clust2 Clustal W](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/clusters/clust2_zdna.fasta),  
 * [clust5 Muscle](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/clusters/clust5_zdna_muscle.fas),  
 * [clust5 Clustal W](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/clusters/clust5_zdna.fasta),  
 * [clust7 Muscle](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/clusters/clust7_zdna_muscle.fas),  
-* [clust7 Clustal W](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/clusters/clust7_zdna.fasta).
+* [clust7 Clustal W](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/clusters/clust7_zdna.fasta).    
+Скриншоты с варывниванием (Muscle W):  
+* Clust 2  
+![](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/pic%20mega%20x/clust2_zdna.PNG)  
+* Clust 5  
+![](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/pic%20mega%20x/clust5_zdna.PNG)  
+* Clust 7  
+![](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/pic%20mega%20x/clust7_zdna.PNG)        
 
 ## Выводы  
 

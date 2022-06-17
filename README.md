@@ -215,7 +215,8 @@
 ![](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/pic%20mega%20x/clust7_nucleotide_ZDNA.PNG)  
 
 ### c) Аминокислотное выравнивание
-
+По скриншотам ниже видно, что последний из трех кластров выравнивается хуже, чем другие два. Предположительно, у этого явления может быть связь с параметром результирующей таблицы ```proteinortho``` Alg.-Conn. У третьего выбранного кластера этот параметр 0.6, в то время как у других - 1.  
+  
 Файлы:
 
 * [clust2](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/clusters/clust2_aminoacid_align.fas),  

@@ -206,7 +206,7 @@
 * [clust2](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/clusters/clust2_nucleotide_align_ZDNA.fas),  
 * [clust5](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/clusters/clust5_nucleotide_align_ZDNA.fas),  
 * [clust7](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/clusters/clust7_nucleotide_align_ZDNA.fas).    
-Скриншоты с варывниванием:  
+Скриншоты с выравниванием:  
 * Clust 2  
 ![](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/pic%20mega%20x/clust2_nucleotide_ZDNA.PNG)  
 * Clust 5  
@@ -222,7 +222,7 @@
 * [clust2](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/clusters/clust2_aminoacid_align.fas),  
 * [clust5](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/clusters/clust5_aminoacid_align.fas),  
 * [clust7](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/clusters/clust7_aminoacid_align.fas).    
-Скриншоты с варывниванием:  
+Скриншоты с выравниванием:  
 * Clust 2  
 ![](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/pic%20mega%20x/clust2_aminoacid.PNG)  
 * Clust 5  
@@ -242,7 +242,7 @@
 * [clust5 Clustal W](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/clusters/clust5_zdna.fasta),  
 * [clust7 Muscle](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/clusters/clust7_zdna_muscle.fas),  
 * [clust7 Clustal W](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/clusters/clust7_zdna.fasta).    
-Скриншоты с варывниванием (Muscle W):  
+Скриншоты с выравниванием (Muscle):  
 * Clust 2  
 ![](https://github.com/kseniashilova/hse22_project_Ascomycetes1/blob/main/clusters/pic%20mega%20x/clust2_zdna.PNG)  
 * Clust 5  
